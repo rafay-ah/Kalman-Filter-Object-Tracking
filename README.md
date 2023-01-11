@@ -1,10 +1,9 @@
-# Assignment 1
+# Object Tracking with Kalman Filters
 
-This is submission for Computer Vision assignment. I have also attached the sample output for further Reference-
 
 # Software Requirements
 - Anaconda
-- PyCharm Professional Edition
+- PyCharm 
 - python 3.7
 - OpenCV, Numpy, Scipy
 
